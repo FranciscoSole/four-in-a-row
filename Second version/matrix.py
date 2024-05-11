@@ -20,7 +20,6 @@ def gameTable() -> int:
         coins = 0 #Set a counter
         winner = False
         mustReturn = -1 #Used in main.main(). If mustReturn == -1 -> program will go back to the main menu, but if it's 0, it will create another match
-        toDo = ""
 
         while not winner:
             player = "1" if player == "2" else "2" #Switches actual turn
