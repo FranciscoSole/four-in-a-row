@@ -24,7 +24,7 @@
 
 ### English
 
-Through 2022 we learned mostly Python and this proyect was requested in the last subject related to this language that I actually was in. It had to be done only with:
+Through 2022 we learned mostly Python and this proyect was requested in the last subject related to this language that I, at this moment, was in. It had to be done only with:
 
 - Functions 
 - Arrays
@@ -45,7 +45,7 @@ Enjoy it!
 
 ### Español
 
-Durante 2022 aprendimos Python mayormente y este proyecto fue el TPO de la última materia relacionada a este lenguaje que curse. Tenía que ser hecho con:
+Durante 2022 aprendimos Python mayormente y este proyecto fue el TPO de la última materia relacionada a este lenguaje que curse actualmente. Tenía que ser hecho con:
 
 - Funciones 
 - Listas 
