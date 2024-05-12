@@ -58,7 +58,7 @@ Durante 2022 aprendimos Python mayormente y este proyecto fue el TPO de la últi
 
 Con mi equipo creamos la versión que está dentro de la carpeta "First version". En esta versión fui el lider, desarrollador principal y también un soporte activo cuando ellos me necesitaron.
 
-Anoche tuve un rato libre y me dieron ganas de hacerle un refactor y crear esta "Second version" meramente porque creo que la primera no representa mi nivel actual de código. De cualquier manera la dejaré ahí por si te gustaría ver la diferencia entre ellos.
+Anoche tuve un rato libre y me dieron ganas de hacerle un refactor para crear esta "Second version" meramente porque creo que la primera no representa mi nivel actual de código. De cualquier manera la dejaré ahí por si te gustaría ver la diferencia entre ellos.
 
 En esta nueva versión la verdad que no me tomé mucho tiempo para hacerlo, por lo que lo relacionado a la estética no es su fuerte y sigue bastante la estructura de la primera versión. Lo importante es la mejora en la escalabilidad, documentación, costos espaciales y temporales, etc.
 
