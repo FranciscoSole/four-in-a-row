@@ -18,6 +18,7 @@
 - Registra cada partida cuando termina (sea por empate o victoria)
 - Muestra el histórico de partidas y te permite elegir la que quieras ver (después de seleccionar una, muestra el tablero y quién ganó)
 - Validaciones eficientes cuando se revisa si alguien ganó
+- Fácil de usar para el usuario
 - Fuertes mejoras en la calidad de código
 
 ## Introduction / Introducción
